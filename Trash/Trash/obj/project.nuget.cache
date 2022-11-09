@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7RD/xXYMaQsN+CdRuebSjw0Ejl9h+G+xK6s8Bp0Bg1Obte54pMpW5jqwO6R8cxTOmmU6Glh/w8rxO8uRxIFTsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash\\Trash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abksa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\abksa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abksa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\abksa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\abksa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\abksa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
