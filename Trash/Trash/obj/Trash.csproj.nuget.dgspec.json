@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash\\Trash.csproj": {}
+    "D:\\Git Project\\New folder\\Trash\\Trash\\Trash.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash\\Trash.csproj": {
+    "D:\\Git Project\\New folder\\Trash\\Trash\\Trash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash\\Trash.csproj",
+        "projectUniqueName": "D:\\Git Project\\New folder\\Trash\\Trash\\Trash.csproj",
         "projectName": "Trash",
-        "projectPath": "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash\\Trash.csproj",
+        "projectPath": "D:\\Git Project\\New folder\\Trash\\Trash\\Trash.csproj",
         "packagesPath": "C:\\Users\\abksa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash\\obj\\",
+        "outputPath": "D:\\Git Project\\New folder\\Trash\\Trash\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abksa\\AppData\\Roaming\\NuGet\\NuGet.Config",

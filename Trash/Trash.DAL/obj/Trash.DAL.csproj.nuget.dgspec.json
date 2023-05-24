@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash.DAL\\Trash.DAL.csproj": {}
+    "D:\\Git Project\\New folder\\Trash\\Trash.DAL\\Trash.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash.DAL\\Trash.DAL.csproj": {
+    "D:\\Git Project\\New folder\\Trash\\Trash.DAL\\Trash.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash.DAL\\Trash.DAL.csproj",
+        "projectUniqueName": "D:\\Git Project\\New folder\\Trash\\Trash.DAL\\Trash.DAL.csproj",
         "projectName": "Trash.DAL",
-        "projectPath": "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash.DAL\\Trash.DAL.csproj",
+        "projectPath": "D:\\Git Project\\New folder\\Trash\\Trash.DAL\\Trash.DAL.csproj",
         "packagesPath": "C:\\Users\\abksa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash.DAL\\obj\\",
+        "outputPath": "D:\\Git Project\\New folder\\Trash\\Trash.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

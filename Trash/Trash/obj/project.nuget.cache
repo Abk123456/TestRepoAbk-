@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7RD/xXYMaQsN+CdRuebSjw0Ejl9h+G+xK6s8Bp0Bg1Obte54pMpW5jqwO6R8cxTOmmU6Glh/w8rxO8uRxIFTsg==",
+  "dgSpecHash": "p6W0b5ax7JfnQnnsLFzf1QqIfSlS0QQDRo625xXUC78FC86RDmm/yJQuRz2GEK4zn0Fcf2SI//QEdspdBKjuKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abksa\\source\\repos\\TestRepoAbk-\\Trash\\Trash\\Trash.csproj",
+  "projectFilePath": "D:\\Git Project\\New folder\\Trash\\Trash\\Trash.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abksa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\abksa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
